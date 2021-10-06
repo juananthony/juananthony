@@ -22,8 +22,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=juananthony)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Metrics](https://raw.githubusercontent.com/juananthony/juananthony/github-metrics/github-metrics.svg)
-
 <!--
 **juananthony/juananthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
