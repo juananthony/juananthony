@@ -18,8 +18,6 @@
 
 <br />
 
-- 🔭 I’m currently working at [Colkie](https://github.com/colkieapp)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=juananthony)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
