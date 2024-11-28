@@ -18,7 +18,11 @@
   </a>
 
 </div>
-
+<div>
+  <a href="https://www.codewars.com/users/juananthony">
+    <img src="https://www.codewars.com/users/juananthony/badges/small" />
+  </a>
+</div>
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=juananthony)](https://github.com/ryo-ma/github-profile-trophy)
