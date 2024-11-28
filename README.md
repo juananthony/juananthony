@@ -13,6 +13,9 @@
       alt="LinkedIn"
     />
   </a>
+  <a href="https://leetcode.com/u/juananthony/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjuananthony&logo=leetcode&logoColor=yellow" />
+  </a>
 
 </div>
 
