@@ -25,6 +25,16 @@
 </div>
 <br />
 
+<div>
+  I'm a **Senior Software Engineer** with extensive experience in software engineering, specializing in backend development, machine learning, and data engineering. I've worked in various industries, including fintech, and have successfully co-founded a startup where I served as CTO. My passion lies in designing scalable systems, leading cross-functional teams, and building impactful products.
+</div>
+
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/juanantoniojimenezlopez](https://www.linkedin.com/in/juanantoniojimenezlopez/)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=juananthony)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
