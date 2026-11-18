@@ -1,51 +1,38 @@
-### Hi there 👋
+# Hi, I'm Juan Antonio 👋
 
-<div align="left">
-  <a href="https://twitter.com/omBratteng">
-    <img
-      src="https://img.shields.io/twitter/follow/juananthony?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/juanantoniojimenezlopez/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://leetcode.com/u/juananthony/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjuananthony&logo=leetcode&logoColor=yellow" />
-  </a>
+**Tech Lead · Former CTO & Co-founder · Software Engineer**
 
-</div>
-<div>
-  <a href="https://www.codewars.com/users/juananthony">
-    <img src="https://www.codewars.com/users/juananthony/badges/small" />
-  </a>
-</div>
-<br />
+I'm a software engineer and technical leader based in Córdoba, Spain. My background spans **backend engineering, distributed systems, data engineering, and machine learning**, with experience building products and leading engineering teams in startups and fintech.
 
-  I'm a **Senior Software Engineer** with extensive experience in software engineering, specializing in backend development, machine learning, and data engineering. I've worked in various industries, including fintech, and have successfully co-founded a startup where I served as CTO. My passion lies in designing scalable systems, leading cross-functional teams, and building impactful products.
+I currently work at **Dedge Security**, focusing on engineering and AI-powered tooling for **Web3 and smart contract security**. Previously, I co-founded a startup and served as its CTO, combining hands-on development with architecture, product delivery, and technical leadership.
 
+### What I work on
 
-## 📫 Get in Touch
+- **Engineering leadership:** technical strategy, architecture, mentoring, and cross-functional delivery.
+- **Backend & distributed systems:** APIs, event-driven services, domain-driven design, and scalable architectures.
+- **AI & LLM engineering:** AI agents, model serving, inference infrastructure, and production AI integrations.
+- **Cloud & infrastructure:** AWS, Kubernetes, infrastructure as code, and observability.
+- **Data & machine learning:** data pipelines, data platforms, and applied ML.
 
-- **LinkedIn:** [linkedin.com/in/juanantoniojimenezlopez](https://www.linkedin.com/in/juanantoniojimenezlopez/)
+### Technologies I use
 
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Go, Scala |
+| Backend | Node.js, Fastify, NestJS, Django, Gin |
+| Data | PostgreSQL, Redis, MongoDB, Spark |
+| Cloud & infrastructure | AWS, Kubernetes, Terraform, Docker |
+| AI & ML | LLMs, AI agents, vLLM, model inference |
+| Architecture | DDD, hexagonal architecture, CQRS, event-driven systems |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juananthony)](https://github.com/ryo-ma/github-profile-trophy)
+### Side projects
 
-<!--
-**juananthony/juananthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Boardforge](https://github.com/juananthony/boardforge)** — A personal project for designing board games.
 
-Here are some ideas to get you started:
+### Beyond code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in photography, cinema, literature, music, and board games. I enjoy exploring the intersection of technology, creativity, and product design.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/juanantoniojimenezlopez/) · [LeetCode](https://leetcode.com/u/juananthony/) · [Codewars](https://www.codewars.com/users/juananthony)
